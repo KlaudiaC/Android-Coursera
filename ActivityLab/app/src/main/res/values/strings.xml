@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLab</string>
+    <string name="start_activity_two">Start Activity Two</string>
+    <string name="close_activity">Close Activity</string>
+</resources>
